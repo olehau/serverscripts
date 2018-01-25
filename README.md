@@ -21,3 +21,6 @@ Used to dump mongodb-databases to a date specified folder structure
 
 ## resque.sh
 Used upon dooms day. This will install all my dependencies from a clean Debian Stretch environment, mount my backup hard drive and transfer all configuration files. 
+
+## backupjobs.sh
+Used to back up MariaDB, MongoDB, PGSQL, Email accounts, server configuration files and statics to a backup disk. 
