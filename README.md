@@ -18,3 +18,6 @@ Lists all registered aliases
 
 ## mongodump.sh
 Used to dump mongodb-databases to a date specified folder structure
+
+## resque.sh
+Used upon dooms day. This will install all my dependencies from a clean Debian Stretch environment, mount my backup hard drive and transfer all configuration files. 
